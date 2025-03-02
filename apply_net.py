@@ -1,11 +1,10 @@
-#!/usr/bin/env python3
-# Copyright (c) Facebook, Inc. and its affiliates.
 
 import argparse
 import glob
 import logging
 import os
 import sys
+import time
 from typing import Any, ClassVar, Dict, List
 import torch
 
@@ -354,6 +353,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# python ./apply_net.py show ./configs/densepose_rcnn_R_50_FPN_s1x.yaml https://dl.fbaipublicfiles.com/densepose/densepose_rcnn_R_50_FPN_s1x/165712039/model_final_162be9.pkl /home/alin0222/Dresscode/dresses/humanonly dp_segm -v --opts MODEL.DEVICE cuda

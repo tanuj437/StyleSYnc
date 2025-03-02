@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+import opencv2
 from PIL import Image, ImageDraw
 
 label_map = {
