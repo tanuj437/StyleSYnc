@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates.
 from .cityscapes_evaluation import CityscapesInstanceEvaluator, CityscapesSemSegEvaluator
 from .coco_evaluation import COCOEvaluator

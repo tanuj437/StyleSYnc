@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 #!/usr/bin/env python3
 # Copyright 2004-present Facebook. All Rights Reserved.
 from detectron2.config import configurable

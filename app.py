@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 import os
 from PIL import Image
 from src.tryon_pipeline import StableDiffusionXLInpaintPipeline as TryonPipeline

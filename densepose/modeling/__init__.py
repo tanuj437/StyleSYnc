@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates.
 
 from .confidence import DensePoseConfidenceModelConfig, DensePoseUVConfidenceType

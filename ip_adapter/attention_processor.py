@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # modified from https://github.com/huggingface/diffusers/blob/main/src/diffusers/models/attention_processor.py
 import torch
 import torch.nn as nn

@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates.
 from iopath.common.file_io import HTTPURLHandler, OneDrivePathHandler, PathHandler
 from iopath.common.file_io import PathManager as PathManagerBase

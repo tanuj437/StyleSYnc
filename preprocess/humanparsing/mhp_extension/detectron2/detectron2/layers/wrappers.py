@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Wrappers around on some nn functions, mainly to support empty tensors.

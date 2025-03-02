@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 from .data.datasets import builtin  # just to register data
 from .config import add_densepose_config, add_dataset_category_config

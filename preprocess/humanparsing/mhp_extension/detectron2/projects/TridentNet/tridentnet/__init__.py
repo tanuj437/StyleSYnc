@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 from .config import add_tridentnet_config
 from .trident_backbone import (

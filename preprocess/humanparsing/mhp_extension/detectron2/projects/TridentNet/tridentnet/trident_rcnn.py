@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 from detectron2.layers import batched_nms
 from detectron2.modeling import ROI_HEADS_REGISTRY, StandardROIHeads

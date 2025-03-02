@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 from .batch_norm import FrozenBatchNorm2d, get_norm, NaiveSyncBatchNorm
 from .deform_conv import DeformConv, ModulatedDeformConv

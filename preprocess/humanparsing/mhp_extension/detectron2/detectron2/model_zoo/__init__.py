@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Model Zoo API for Detectron2: a collection of functions to create common model architectures and

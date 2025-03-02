@@ -1,3 +1,4 @@
+# Modified by Tanuj Saxena
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Implementation of RegNet models from :paper:`dds` and :paper:`scaling`.
